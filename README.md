@@ -1,1 +1,1 @@
-# lsOS
+# lsOS - Light System OS
